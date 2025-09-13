@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprendendo CSS</title>
+    <link rel="stylesheet" href="css/estilo8.css">
+</head>
+<body>
+    <h1>Meu primeiro site com CSS</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel, accusamus ipsam temporibus iure sit omnis, illum ab aut obcaecati voluptatum saepe non delectus dolorum sequi. Asperiores voluptatum voluptate qui iure.</p>
+    <p>Iste aliquam vero libero dolor, quo in aperiam soluta distinctio autem error placeat optio, cum omnis? Amet illum pariatur explicabo et fugit, exercitationem iure magnam unde! Dolores, rerum eveniet. Possimus.</p>
+    <p>Ratione perspiciatis, illo a ea consectetur officiis deleniti magni? Quia pariatur cumque doloremque officiis! Incidunt deserunt, facere, cum fugiat libero omnis voluptas ex eaque error vero voluptatem quia rem eos?</p><br><br>
+
+    
+
+    <a class="botao" href="outra.html">Ir para outra página</a>
+    
+</body>
+</html>
