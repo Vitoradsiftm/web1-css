@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprendendo CSS</title>
+    <link rel="stylesheet" href="css/estilo13.css">
+</head>
+<body>
+
+    <h1 class="borda">Meu primeiro CSS</h1>
+
+    <div class="container">
+        <img src="img/pexels-lkloeppel-466685.jpg">
+        <div class="centro">
+            <h1>Titulo do meu artigo</h1>
+        </div>
+    </div>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni aliquam ut corrupti. Dolore quae debitis, tempora voluptate cumque labore quisquam perspiciatis ab iusto quas iste ipsum iure doloremque facere doloribus?</p>
+    <p>Non numquam saepe nihil quam itaque. Error aliquid hic ab dolorum rem quisquam tenetur architecto recusandae. Praesentium vel ipsum ab asperiores, distinctio quod nesciunt corrupti dolore quis, architecto, eos fuga!</p>
+    <p>At nostrum dicta alias, laudantium error repellat repellendus architecto est, numquam consequuntur libero ipsa quasi optio dignissimos quibusdam autem qui necessitatibus perferendis, veniam atque aliquid dolorum! Aut eum debitis aliquam.</p>
+    <p>Ipsa nemo debitis officia blanditiis provident, cumque, laboriosam dolore ut consectetur nam, numquam fugiat recusandae maiores ducimus inventore quidem! Unde voluptatum voluptate culpa iste. Quidem earum illo libero est aut.</p>
+    <p>Ex laboriosam assumenda dolorem corporis ut provident quae expedita cumque quod, rerum vel sequi eligendi perferendis porro voluptatibus sapiente reiciendis illum aut quam deserunt iure! Harum magni eos repellat porro?</p>
+    <p>Magnam nulla vitae qui omnis obcaecati amet laboriosam possimus fuga inventore provident veritatis explicabo, blanditiis nam dolorum doloribus beatae a dolor quidem, vel laudantium quibusdam voluptatibus ut! Quos, earum vitae!</p>
+    <p>Unde eum neque impedit. Sit eligendi, nesciunt sunt assumenda repellat excepturi esse deserunt, pariatur, quae ratione veritatis laboriosam aperiam sint autem reprehenderit totam. Quos, labore? Itaque iure nemo aliquam voluptate.</p>
+    <p>Cumque voluptatem ab iusto commodi culpa placeat maiores aut deserunt delectus, quis itaque molestias praesentium cupiditate quos at nemo totam voluptate molestiae. Odio obcaecati dolorum ad dolorem quos? Ut, esse.</p>
+    <p>Nemo labore iusto, harum error sequi perspiciatis qui. Ea quaerat quas quos voluptate repudiandae vel consectetur illum dolorem provident nam sit nisi veritatis laborum, hic harum qui officia saepe magnam.</p>
+    <p>Quidem, dolor dolorum aperiam expedita maxime labore repellat, fugiat earum doloremque, ab delectus. Quae error expedita eveniet enim ipsa, provident suscipit vitae incidunt ipsum rem voluptas dolores, quisquam tempore repudiandae.</p>
+    <p>Totam consequatur natus aliquam ad voluptate dolorem culpa. Itaque consequatur dolores iste. Qui, sunt rem at iusto aliquam, autem reiciendis odit inventore temporibus animi sapiente ab aspernatur optio, laborum facilis.</p>
+    <p>Animi optio porro ipsa accusamus, totam voluptate sint quisquam, dolorum consequatur commodi, sapiente hic dignissimos minima. Ab, illo distinctio impedit dolorum numquam dignissimos libero minus dolorem eaque quos ex laboriosam.</p>
+
+    <div class="whats">
+        Whats
+    </div>
+    
+</body>
+</html>
