@@ -1,0 +1,7 @@
+h1 {
+    color: #149e85;
+}
+
+p {
+    color: red;
+}
